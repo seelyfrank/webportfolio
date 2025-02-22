@@ -3754,7 +3754,11 @@ input, select, textarea {
 		}
 
 /* Main */
-
+	
+#page-wrapper {
+	transform: scale(.9)
+	transform-origin: top;
+}
 
 	#main {
 		background-color: #ffffff;

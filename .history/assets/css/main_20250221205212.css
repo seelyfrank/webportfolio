@@ -3755,7 +3755,6 @@ input, select, textarea {
 
 /* Main */
 
-
 	#main {
 		background-color: #ffffff;
 		position: relative;
@@ -3780,7 +3779,7 @@ input, select, textarea {
 		}
 
 		#main > .post {
-			padding: 8rem rem 4rem 8rem ;
+			padding: 8rem 4rem 4rem 8rem ;
 		}
 
 			#main > .post header.major > .date {

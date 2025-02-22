@@ -3755,13 +3755,12 @@ input, select, textarea {
 
 /* Main */
 
-
 	#main {
 		background-color: #ffffff;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
-		max-width: 72rem;
+		max-width: 60rem;
 		z-index: 2;
 	}
 
@@ -3780,7 +3779,7 @@ input, select, textarea {
 		}
 
 		#main > .post {
-			padding: 8rem rem 4rem 8rem ;
+			padding: 8rem 8rem 4rem 8rem ;
 		}
 
 			#main > .post header.major > .date {
