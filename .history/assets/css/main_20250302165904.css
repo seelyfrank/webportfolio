@@ -2586,11 +2586,6 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-/* To fix video */
-	.adjust-video iframe {
-		margin-top: 25px; /* Adjust as needed */
-	}
-
 /* Image */
 
 	.image {
@@ -2616,6 +2611,8 @@ input, select, textarea {
 			margin: 0 2rem 2rem 0;
 			top: 0.75rem;
 		}
+
+		
 
 		.image.right {
 			float: right;

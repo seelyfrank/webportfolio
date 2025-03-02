@@ -2586,7 +2586,7 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-/* To fix video */
+		
 	.adjust-video iframe {
 		margin-top: 25px; /* Adjust as needed */
 	}
